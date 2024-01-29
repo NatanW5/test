@@ -1,0 +1,8 @@
+### dependency
+streamlit
+opencv-python
+numpy
+tensorflow
+pillow
+streamlit_drawable_canvas
+keras
